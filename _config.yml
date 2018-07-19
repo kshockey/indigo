@@ -1,6 +1,6 @@
 # main text of home
 name: Kyle Shockey
-bio: music cataloging librarian, etc.
+bio: sometimes words about music live here
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: k.shockey04@gmail.com
 authors:
     kyleshockey:
         name: Kyle Shockey
-        bio: music cataloging librarian, etc.
+        bio: sometimes words about music live here
         external-image: false
         picture: assets/images/profile.jpg
         twitter: krofss
