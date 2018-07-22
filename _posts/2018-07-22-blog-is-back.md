@@ -6,7 +6,7 @@ categories:
 tags: video games, writing, video game music, swimming, Katamari, Unwinnable, Game Studies Study Buddies, Yuu Miyake, Shibuya-kei, Michael Bourdaghs, CapsuleCrit, Cool Japan, Weird Japan
 ---
 
-> and Harry doesn't mind if he doesn't make the scene</br>he's got a daytime job; he's doin' alright
+> and Harry doesn't mind if he doesn't make the scene<br>he's got a daytime job; he's doin' alright
 >
 > -[Sultans of Swing](https://www.youtube.com/watch?v=0fAQhSRLQnM), Dire Straits<sup>[1](#note1)</sup>
 
