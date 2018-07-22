@@ -19,7 +19,7 @@ I've got a while to go until it is digestible, but I hope to whip it into shape 
 ---
 #### Other things
 
-I'm looking forward to the next installment of CapsuleCrit [https://www.capsulecrit.com/]. Their initial publication got me thinking about what can be conveyed in short form fiction and how I might be able to write like that in the future, on this blog or elsewhere. Check it out when you get a chance.
+I'm looking forward to the next installment of [CapsuleCrit](https://www.capsulecrit.com/). Their initial publication got me thinking about what can be conveyed in short form fiction and how I might be able to write like that in the future, on this blog or elsewhere. Check it out when you get a chance.
 
 Recently I won a bundle of books from [Boss Fight Books](https://bossfightbooks.com/). Their e-books are a great way to support good writing (though I plan on ordering at least [one](https://bossfightbooks.com/products/katamari-damacy-by-l-e-hall) in paperback).
 
