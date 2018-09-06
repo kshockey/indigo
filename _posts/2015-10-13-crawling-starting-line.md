@@ -2,8 +2,8 @@
 layout: page
 title: "Crawling to the Starting Line"
 date: 2015-10-13
-categories: archive, hidden
-tags:
+categories: archive
+tags: hidden
 ---
 
 *The following is a lightly edited version of a post previously hosted on [Librarian Burnout](https://librarianburnout.com/), published in October 2015.*
