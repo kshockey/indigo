@@ -2,7 +2,8 @@
 layout: post
 title: "Crawling to the Starting Line"
 date: 2015-10-13
-categories: archive, hidden
+hidden: true
+categories:
 tags:
 ---
 
