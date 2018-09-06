@@ -2,7 +2,7 @@
 layout: page
 title: "Crawling to the Starting Line"
 date: 2015-10-13
-categories: archive
+categories: archive, hidden
 tags:
 ---
 
