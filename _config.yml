@@ -1,6 +1,6 @@
 # main text of home
 name: Kyle Shockey
-bio: that is some good, uh, content
+bio: music metadata librarian
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -16,6 +16,7 @@ resume: false
 resume-external: true
 resume-url:
 
+# 2020-01: get https
 url: http://kyleshockey.info
 # your url: http://USERNAME.github.io
 
@@ -35,11 +36,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: kaaaaaahl
+twitter: kshockey04
 # google: mygoogle
-instagram: plagalbagel
+# instagram: onomichioda
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: kyle-shockey
 # youtube: myyoutube
 # spotify: myspotify
 github: kshockey
@@ -54,7 +55,7 @@ email: k.shockey04@gmail.com
 authors:
     kyleshockey:
         name: Kyle Shockey
-        bio: that is some good, uh, content
+        # bio: that is some good, uh, content
         external-image: false
         picture: assets/images/profile.jpg
         twitter: kaaaaaahl
@@ -73,13 +74,14 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# 2020-01: I am not using this professionally right now
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: false
+show-tags: true
 
 # related posts inside a post?
 related: false
